@@ -7,4 +7,8 @@ def bar():
 def baz():
     return 3+4
     
+def foobar():
+    return 3*4
+    
+    
     
