@@ -4,3 +4,7 @@ def foo():
 def bar():
     return 'six'
     
+def baz():
+    return 3+4
+    
+    
